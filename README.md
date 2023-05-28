@@ -8,6 +8,7 @@
 # About Me
 <p>
   <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/b003cb40-f821-4b3f-935a-95f39b2a3608" width="372px">  
+  <br>
   <i><b>I'm Daniel, a CE student at UMD.  I'm stuck in a dichotomy of coding and hiking :)</b></i>
   <br><br>
 
