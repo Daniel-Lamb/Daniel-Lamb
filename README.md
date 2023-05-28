@@ -7,20 +7,20 @@
 
 # About Me
 <p>
-<img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/b003cb40-f821-4b3f-935a-95f39b2a3608" width="382px">  
-<i><b>I'm Daniel, a CE student at UMD.  I'm stuck in a dichotomy of coding and hiking :)</b></i>
-<br>
+  <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/b003cb40-f821-4b3f-935a-95f39b2a3608" width="382px">  
+  <i><b>I'm Daniel, a CE student at UMD.  I'm stuck in a dichotomy of coding and hiking :)</b></i>
+  <br>
 
-<h2 align="left">Experience:</h2>
+  <h2 align="left">Experience:</h2>
 </p>
-
-<img align="right" src="https://media2.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47pwbaog6dnk7ns7ngbnfn7yk1b1fmkvvzorgj3cx4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px" height="200px">
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-green?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/c-green?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Verilog-green?style=for-the-badge)
+
+<img align="right" src="https://media2.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47pwbaog6dnk7ns7ngbnfn7yk1b1fmkvvzorgj3cx4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px" height="200px">
 
 ### ML / Data Science
 ![Pandas](https://img.shields.io/badge/pandas-green?style=for-the-badge&logo=pandas)
