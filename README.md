@@ -14,7 +14,7 @@
 <h2 align="left">Experience:</h2>
 </p>
 
-<img align="right" src="https://media2.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47pwbaog6dnk7ns7ngbnfn7yk1b1fmkvvzorgj3cx4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px" height="250px">
+<img align="right" src="https://media2.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47pwbaog6dnk7ns7ngbnfn7yk1b1fmkvvzorgj3cx4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px" height="225px">
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)
@@ -35,9 +35,9 @@
 <br>
 <p>
   <a href="https://www.linkedin.com/in/daniel--lamb/">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png" />
+    <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png" />
   </a>
   <a href="https://portfolium.com/Daniel_Lamb">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
+    <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
   </a>
 </p>
