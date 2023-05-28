@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my Github Page!</h1>
 <p>
-  <img align="left" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/07e02d44-2ad7-473f-9147-3c597c71ec9b" width="350px" height="400px">
-  <img align="center" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/41d81fcb-ced3-43ce-b2e7-fc56622172cc" width="230px">
-  <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/07e02d44-2ad7-473f-9147-3c597c71ec9b" width="350px" height="400px">
+  <img align="left" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/07e02d44-2ad7-473f-9147-3c597c71ec9b" width="350px" height="350px">
+  <img align="center" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/41d81fcb-ced3-43ce-b2e7-fc56622172cc" width="200px">
+  <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/07e02d44-2ad7-473f-9147-3c597c71ec9b" width="350px" height="350px">
 </p>
 
 # About Me
