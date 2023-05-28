@@ -33,7 +33,7 @@
 ![Linux](https://img.shields.io/badge/linux-green?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-green?style=for-the-badge&logo=Windows)
 
-<br><br>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel--lamb/">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png" />
