@@ -9,7 +9,7 @@
 <p>
   <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/b003cb40-f821-4b3f-935a-95f39b2a3608" width="371px">  
   <br>
-  <i><b>I'm Daniel, a CE student at UMD.  I'm stuck in a dichotomy of coding and hiking :)</b></i>
+  <i><b>I'm Daniel, a computer engineering student at UMD.  I'm in that dichotomy of coding and hiking.  </b></i>
   <br><br>
 
   <h2 align="left">Experience:</h2>
