@@ -5,11 +5,11 @@
   <img align="center" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/41d81fcb-ced3-43ce-b2e7-fc56622172cc" width="200px">
 </p>
 
-# About Me
+# About:
 <p>
   <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/b003cb40-f821-4b3f-935a-95f39b2a3608" width="371px">  
   <br>
-  <i><b>I'm Daniel, a computer engineering student at UMD.  I'm in that dichotomy of coding and hiking.  </b></i>
+  <i><b>Hi I'm Daniel!  I'm a rising junior studying computer engineering at the University of Maryland.  I enjoy the dichotomy that comes with coding and hiking.  I like rocks.  </b></i>
   <br><br>
 
   <h2 align="left">Experience:</h2>
