@@ -9,7 +9,7 @@
 <p>
   <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/b003cb40-f821-4b3f-935a-95f39b2a3608" width="371px">  
   <br>
-  <i><b>Hi I'm Daniel!  I study computer engineering at the University of Maryland.  I enjoy a dichotomy of coding and hiking.  I like rocks.  </b></i>
+  <i><b>Hi! I'm Daniel, a computer engineering at the University of Maryland.  I enjoy a dichotomy of coding and hiking.  </b></i>
   <br><br>
 
   <h2 align="left">Experience:</h2>
@@ -42,5 +42,4 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
   </a>
   
-  [![](https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png)](https://www.linkedin.com/in/daniel--lamb/)
 </p>
