@@ -35,7 +35,7 @@
 
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel--lamb/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel--lamb/" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png" />
   </a>
   <a href="https://portfolium.com/Daniel_Lamb" target="_blank">
