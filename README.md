@@ -1,3 +1,5 @@
+<base target="_blank">
+
 <h1 align="center">Welcome to my Github Page!</h1>
 <p>
   <img align="left" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/07e02d44-2ad7-473f-9147-3c597c71ec9b" width="270px" height="325px">
@@ -35,10 +37,10 @@
 
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel--lamb/" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="https://www.linkedin.com/in/daniel--lamb/">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png" />
   </a>
-  <a href="https://portfolium.com/Daniel_Lamb" target="_blank">
+  <a href="https://portfolium.com/Daniel_Lamb">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
   </a>
 </p>
