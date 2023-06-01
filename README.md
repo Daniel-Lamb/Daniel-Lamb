@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/daniel--lamb/">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png" />
   </a>
-  <a href="https://portfolium.com/Daniel_Lamb">
+  <a href="https://portfolium.com/Daniel_Lamb/portfolio">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
   </a>
   
