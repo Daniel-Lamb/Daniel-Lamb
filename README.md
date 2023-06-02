@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github Page!</h1>
 
 <p>
-  <img align="center" src="" width="230px" height="325px">  
+  <img align="center" src="https://i.gifer.com/3c6w.mp4" width="230px" height="325px">  
   <img align="left" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/81542370-64df-4393-8ba5-4d848b1c0fe9" width="270px" height="325px">
 
   <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/a5edad4a-2152-4690-8253-14725054846e" width="270px" height="325px">
