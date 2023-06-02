@@ -40,13 +40,13 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel--lamb/">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png" />
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://portfolium.com/Daniel_Lamb/portfolio">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
+    <img src="https://img.shields.io/badge/-Portfolium-orange?style=flat=linkedin" />
   </a>
   <a href="mailto:daniel.lamb4444@gmail.com">
-    <img src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/0154380b-a33b-41f0-b954-60523d47bd0d" />
+    <img src="https://img.shields.io/badge/-Email-lightgrey?style=flat-square&logo=gmail" />
   </a>
   
 </p>
