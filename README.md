@@ -1,14 +1,9 @@
 <h1 align="center">Welcome to my Github Page!</h1>
 
 <p align="center">
-  <img align="center" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/74d67bb0-cdbb-4b8a-a212-44a16a5b4c24" width="165px" height="260px"> 
-</p>
 
-<p align="left">
   <img align="left" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/81542370-64df-4393-8ba5-4d848b1c0fe9" width="215px" height="260px">
-</p>
-
-<p align="right">
+  <img align="center" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/74d67bb0-cdbb-4b8a-a212-44a16a5b4c24" width="165px" height="260px">
   <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/a5edad4a-2152-4690-8253-14725054846e" width="215px" height="260px">
 </p>
 <br>
