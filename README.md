@@ -1,9 +1,8 @@
 <h1 align="center">Welcome to my Github Page!</h1>
 
 <p>
-  <img align="center" src="https://i.gifer.com/3c6w.mp4" width="230px" height="325px">  
+  <img align="center" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/74d67bb0-cdbb-4b8a-a212-44a16a5b4c24" width="210px" height="330px">  
   <img align="left" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/81542370-64df-4393-8ba5-4d848b1c0fe9" width="270px" height="325px">
-
   <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/a5edad4a-2152-4690-8253-14725054846e" width="270px" height="325px">
 
   
@@ -47,7 +46,7 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
   </a>
   <a href="mailto:daniel.lamb4444@gmail.com">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
+    <img src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/0154380b-a33b-41f0-b954-60523d47bd0d" />
   </a>
   
 </p>
