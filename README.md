@@ -1,13 +1,18 @@
 <h1 align="center">Welcome to my Github Page!</h1>
+
 <p>
-  <img align="left" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/07e02d44-2ad7-473f-9147-3c597c71ec9b" width="270px" height="325px">
-  <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/07e02d44-2ad7-473f-9147-3c597c71ec9b" width="270px" height="325px">
-  <img align="center" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/41d81fcb-ced3-43ce-b2e7-fc56622172cc" width="200px">
+  <img align="center" src="" width="230px" height="325px">  
+  <img align="left" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/81542370-64df-4393-8ba5-4d848b1c0fe9" width="270px" height="325px">
+
+  <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/a5edad4a-2152-4690-8253-14725054846e" width="270px" height="325px">
+
+  
 </p>
 
 # About:
 <p>
-  <img align="right" src="https://github.com/Daniel-Lamb/Thanks-for-visiting/assets/96439440/b003cb40-f821-4b3f-935a-95f39b2a3608" width="371px">  
+ <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/21b35d80-b209-4964-a7bc-4c9bebdaa02e" width="371px">
+  
   <br>
   <i><b>Hi! I'm Daniel, a computer engineering at the University of Maryland.  I enjoy a dichotomy of coding and hiking.  </b></i>
   <br><br>
@@ -39,6 +44,9 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527087-fd261112-2706-441f-8724-7bca296bc2f2.png" />
   </a>
   <a href="https://portfolium.com/Daniel_Lamb/portfolio">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
+  </a>
+  <a href="mailto:daniel.lamb4444@gmail.com">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96439440/241527354-1bcb6c22-7625-4ab7-b0a1-60a5abb07ee4.png" />
   </a>
   
