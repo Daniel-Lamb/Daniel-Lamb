@@ -23,6 +23,8 @@
 ![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-green?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/c-green?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-green?style=for-the-badge&logo=CSS)
 ![Verilog](https://img.shields.io/badge/Verilog-green?style=for-the-badge)
 
 <img align="right" src="https://media2.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47pwbaog6dnk7ns7ngbnfn7yk1b1fmkvvzorgj3cx4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px" height="205px">
