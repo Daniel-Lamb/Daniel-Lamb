@@ -41,14 +41,17 @@
 
 <br>
 <p align="center">
+   <a href="https://danielamb.com/">
+    <img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=website" />
+  </a>
   <a href="https://www.linkedin.com/in/daniel--lamb/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://portfolium.com/Daniel_Lamb/portfolio">
-    <img src="https://img.shields.io/badge/-Portfolium-orange?style=flat=linkedin" />
+    <img src="https://img.shields.io/badge/-Portfolium-orange?style=flat=portfolium" />
   </a>
   <a href="mailto:daniel.lamb4444@gmail.com">
     <img src="https://img.shields.io/badge/-Email-lightgrey?style=flat-square&logo=gmail" />
   </a>
-  
+
 </p>
