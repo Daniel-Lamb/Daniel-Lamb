@@ -42,7 +42,7 @@
 <br>
 <p align="center">
    <a href="https://danielamb.com/">
-    <img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=website" />
+    <img src="https://img.shields.io/badge/-Website-darkgreen?style=flat-square&logo=website" />
   </a>
   <a href="https://www.linkedin.com/in/daniel--lamb/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" />
