@@ -13,7 +13,7 @@
  <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/21b35d80-b209-4964-a7bc-4c9bebdaa02e" width="371px">
   
   <br>
-  <i><b>Hi! I'm Daniel, a computer engineering at the University of Maryland.  I enjoy a dichotomy of coding and hiking.  </b></i>
+  <i><b>Hi! I'm Daniel, a computer engineering at the University of Maryland.  I'm passionate about self-improvement, coding, and hiking.  </b></i>
   <br><br>
 
   <h2 align="left">Experience:</h2>
