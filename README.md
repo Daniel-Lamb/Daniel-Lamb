@@ -10,14 +10,14 @@
 
 # About:
 <p>
- <img align="left" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/21b35d80-b209-4964-a7bc-4c9bebdaa02e" width="371px">
+ <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/21b35d80-b209-4964-a7bc-4c9bebdaa02e" width="371px">
   
   <br>
   <i><b>Hi! I'm Daniel, a computer engineering student at the University of Maryland. I'm passionate about self-improvement, coding, and hiking.</b></i>
   <br><br>
 </p>
 
-## Experience:
+# Experience:
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)
