@@ -16,8 +16,8 @@
   <i><b>Hi! I'm Daniel, a computer engineering student at the University of Maryland. I'm passionate about self-improvement, coding, and hiking.</b></i>
   <br><br>
 
-  Experience:
-  -----
+ ### Experience:
+
 </p>
 
 ### Languages
