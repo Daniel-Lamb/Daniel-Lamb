@@ -15,9 +15,9 @@
   <br>
   <i><b>Hi! I'm Daniel, a computer engineering student at the University of Maryland. I'm passionate about self-improvement, coding, and hiking.</b></i>
   <br><br>
-</p>
 
-# Experience:
+  ## Experience:
+</p>
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)
