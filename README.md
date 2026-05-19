@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Daniel Lamb</h1>
+<h1 align="center">Welcome welcome, I'm Daniel :) </h1>
 
 <p align="center">
   Automation Engineer • AI Workflows • Agentic Systems
