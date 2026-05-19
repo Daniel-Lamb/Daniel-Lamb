@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Graduated B.S. Computer Engineering @ UMD, previously @ Capital One, Ernst & Young, startups
+  Graduated B.S. Computer Engineering @ UMD, previously @ Capital One, Ernst & Young, startups <br>
 </p>
 
 <p align="center">
