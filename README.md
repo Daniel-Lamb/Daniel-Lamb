@@ -6,11 +6,11 @@
 
 <p align="center">
   B.S. Computer Engineering @ University of Maryland <br>
-  Previously @ Capital One & Ernst & Young
+  Previously @ Capital One, Ernst & Young, startups
 </p>
 
 <p align="center">
-  I build AI systems and automations that remove repetitive work so people can spend more time on things that actually matter.
+  I save people time and effort by automating repetitive work. Whether it's personal time or other areas of business, go spend time on things that matter.
 </p>
 
 ---
