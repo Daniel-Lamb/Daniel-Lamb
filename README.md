@@ -30,8 +30,10 @@ I’ve built systems for:
 - spreadsheet operations
 - real-time dashboards
 - AI-powered knowledge systems
-- 
+
+  
 ---
+
 
 ## Connect
 
@@ -47,42 +49,23 @@ I’ve built systems for:
 
 ## Stack and Skills
 
-### AI & Automation
-- Multi-Agent Orchestration
-- Human-in-the-loop (HITL)
-- Agent Memory
-- Guardrails & Safety Layers
-- Planning & Task Decomposition
-- MCP (Model Context Protocol)
-- A2A (Agent-to-Agent Protocol)
-- Agent Evaluation & Benchmarking
-- Reflection & Self-Correction
-- Context Window Management
-- Agent Handoffs & Routing
-- Observability & Tracing
-- n8n
-- Vector Databases
-- Claude
-
-### Languages
-- Python
-- Java
-- C
-- Verilog
-- JavaScript
-- HTML
-- CSS
-
-### Backend & Infrastructure
-- Flask
-- FastAPI
-- SQL
-- AWS
-- Docker
-- Kubernetes
-- Streamlit
-- Linux
-- Windows
+| AI & Automation | Languages | Backend & Infrastructure |
+|---|---|---|
+| Multi-Agent Orchestration | Python | Flask |
+| Human-in-the-loop (HITL) | Java | FastAPI |
+| Agent Memory | C | SQL |
+| Guardrails & Safety Layers | Verilog | AWS |
+| Planning & Task Decomposition | JavaScript | Docker |
+| MCP (Model Context Protocol) | HTML | Kubernetes |
+| A2A (Agent-to-Agent Protocol) | CSS | Streamlit |
+| Agent Evaluation & Benchmarking |  | Linux |
+| Reflection & Self-Correction |  | Windows |
+| Context Window Management |  |  |
+| Agent Handoffs & Routing |  |  |
+| Observability & Tracing |  |  |
+| n8n |  |  |
+| Vector Databases |  |  |
+| Claude |  |  |
 
 ---
 
