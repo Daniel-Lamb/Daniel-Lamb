@@ -9,11 +9,9 @@ B.S. Computer Engineering @ University of Maryland <br>
 Previously @ Capital One & Ernst & Young
 </p>
 
----
-
-## about me
-
 I build AI systems and automations that remove repetitive work so people can spend more time on things that actually matter.
+
+---
 
 My work focuses on:
 - AI workflows & agents
@@ -32,11 +30,10 @@ I’ve built systems for:
 - spreadsheet operations
 - real-time dashboards
 - AI-powered knowledge systems
-
-Outside of tech, I love traveling, hiking, tennis, and reading.
+- 
 ---
 
-## connect
+## Connect
 
 <p align="left">
   <a href="https://danielamb.com">Website</a> •
@@ -48,7 +45,7 @@ Outside of tech, I love traveling, hiking, tennis, and reading.
 
 ---
 
-## stack
+## Stack and Skills
 
 ### AI & Automation
 - Multi-Agent Orchestration
@@ -89,7 +86,7 @@ Outside of tech, I love traveling, hiking, tennis, and reading.
 
 ---
 
-## previous work
+## Previous Work
 
 | Project | Description |
 |---|---|
@@ -101,5 +98,7 @@ Outside of tech, I love traveling, hiking, tennis, and reading.
 ---
 
 <p align="center">
+Outside of tech, I love traveling, hiking, tennis, and reading.
+  
 To build something or just chat, reach out!
 </p>
