@@ -1,36 +1,105 @@
-# Hi, I'm Daniel Lamb
+<h1 align="center">Hey, I'm Daniel Lamb</h1>
 
-Automation engineer, graduated with a B.S. Computer Engineering from the University of Maryland, prev @ Capital One and Ernst and Young.
+<p align="center">
+Automation Engineer • AI Workflows • Agentic Systems
+</p>
 
-I save people time and effort, so that they can focus on enjoying things that are important to them. I build workflows and AI systems that help with emails, call summaries, CRM updates, reports, lead routing, spreadsheets, and anything repetitive.
-
-In my free time I love to travel, hike, and play tennis and soccer!
-
----
-
-## Reach Out!
-
-[Website](https://danielamb.com/), [LinkedIn](https://www.linkedin.com/in/daniel--lamb/), [GitHub](https://github.com/Daniel-Lamb), [Instagram](https://www.instagram.com/lamb.zip/), [Email](mailto:daniel@leanback.ai)
+<p align="center">
+B.S. Computer Engineering @ University of Maryland <br>
+Previously @ Capital One & Ernst & Young
+</p>
 
 ---
 
-## Skills, Stack
+## about me
 
-**AI & Automation:** HITL, A2A, RAG, Agent Memory, Guardrails, Task Decomposition/ Planning, Context Window Management, Self-Correction and Evaluation, Handoffs/ Routing, Observability Tracing, MCP, Tool Calls, n8n, Claude
+I build AI systems and automations that remove repetitive work so people can spend more time on things that actually matter.
 
-**Languages:** Python, Java, C, Verilog, JavaScript, HTML, CSS
+My work focuses on:
+- AI workflows & agents
+- business process automation
+- internal tooling
+- MCP integrations
+- data systems
+- operational efficiency
 
-**Backend & DevOps:** Flask, FastAPI, SQL, AWS, Docker, Kubernetes, Streamlit, Linux, Windows
+I’ve built systems for:
+- email automation
+- CRM updates
+- lead routing
+- reporting workflows
+- call summaries
+- spreadsheet operations
+- real-time dashboards
+- AI-powered knowledge systems
+
+Outside of tech, I love traveling, hiking, tennis, and reading.
+---
+
+## connect
+
+<p align="left">
+  <a href="https://danielamb.com">Website</a> •
+  <a href="https://www.linkedin.com/in/daniel--lamb/">LinkedIn</a> •
+  <a href="https://github.com/Daniel-Lamb">GitHub</a> •
+  <a href="https://www.instagram.com/lamb.zip/">Instagram</a> •
+  <a href="mailto:daniel@leanback.ai">Email</a>
+</p>
 
 ---
 
-## Previous Work
+## stack
+
+### AI & Automation
+- Multi-Agent Orchestration
+- Human-in-the-loop (HITL)
+- Agent Memory
+- Guardrails & Safety Layers
+- Planning & Task Decomposition
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent Protocol)
+- Agent Evaluation & Benchmarking
+- Reflection & Self-Correction
+- Context Window Management
+- Agent Handoffs & Routing
+- Observability & Tracing
+- n8n
+- Vector Databases
+- Claude
+
+### Languages
+- Python
+- Java
+- C
+- Verilog
+- JavaScript
+- HTML
+- CSS
+
+### Backend & Infrastructure
+- Flask
+- FastAPI
+- SQL
+- AWS
+- Docker
+- Kubernetes
+- Streamlit
+- Linux
+- Windows
+
+---
+
+## previous work
 
 | Project | Description |
-|--------|-------------|
-| **Leanback AI** | My agency for building AI workflows |
-| **Capital One Analytics** | Built data pipelines and analyzed large-scale datasets with Python and SQL |
-| **Dashboard Template** | Built a real-time data dashboard using Kafka, Docker, Python, and Streamlit, adaptable for classified ODNI initiatives |
-| **AI Travel Guestbook** | Built for a startup, converts walkthrough videos and guest feedback into an AI property knowledge base |
+|---|---|
+| **Leanback AI** | AI automation agency focused on workflow systems and operational tooling |
+| **Capital One** | Built Python + SQL data pipelines and analyzed large-scale datasets |
+| **Real-Time Dashboard System** | Built Kafka + Docker + Streamlit dashboards adaptable for classified ODNI initiatives |
+| **AI Travel Guestbook** | Converted walkthrough videos and guest feedback into an AI-powered property knowledge base |
 
 ---
+
+<p align="center">
+To build something or just chat, reach out!
+</p>
