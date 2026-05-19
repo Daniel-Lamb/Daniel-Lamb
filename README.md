@@ -13,24 +13,16 @@ I build AI systems and automations that remove repetitive work so people can spe
 
 ---
 
-My work focuses on:
-- AI workflows & agents
-- business process automation
-- internal tooling
-- MCP integrations
-- data systems
-- operational efficiency
-
-I’ve built systems for:
-- email automation
-- CRM updates
-- lead routing
-- reporting workflows
-- call summaries
-- spreadsheet operations
-- real-time dashboards
-- AI-powered knowledge systems
-
+| My work focuses on | I’ve built systems for |
+|---|---|
+| AI workflows & agents | Email automation |
+| Business process automation | CRM updates |
+| Internal tooling | Lead routing |
+| MCP integrations | Reporting workflows |
+| Data systems | Call summaries |
+| Operational efficiency | Spreadsheet operations |
+|  | Real-time dashboards |
+|  | AI-powered knowledge systems |
   
 ---
 
