@@ -1,17 +1,21 @@
 <h1 align="center">Hey, I'm Daniel Lamb</h1>
 
 <p align="center">
-Automation Engineer • AI Workflows • Agentic Systems
+  Automation Engineer • AI Workflows • Agentic Systems
 </p>
 
 <p align="center">
-B.S. Computer Engineering @ University of Maryland <br>
-Previously @ Capital One & Ernst & Young
+  B.S. Computer Engineering @ University of Maryland <br>
+  Previously @ Capital One & Ernst & Young
 </p>
 
-I build AI systems and automations that remove repetitive work so people can spend more time on things that actually matter.
+<p align="center">
+  I build AI systems and automations that remove repetitive work so people can spend more time on things that actually matter.
+</p>
 
 ---
+
+<div align="center">
 
 | My work focuses on | I’ve built systems for |
 |---|---|
@@ -22,24 +26,26 @@ I build AI systems and automations that remove repetitive work so people can spe
 | Data systems | Call summaries |
 | Operational efficiency | Spreadsheet operations |
 |  | Real-time dashboards |
-|  | AI-powered knowledge systems |
-  
+
+</div>
+
 ---
 
+<h2 align="center">Connect</h2>
 
-## Connect
-
-<p align="left">
-  <a href="https://danielamb.com">Website</a> •
-  <a href="https://www.linkedin.com/in/daniel--lamb/">LinkedIn</a> •
-  <a href="https://github.com/Daniel-Lamb">GitHub</a> •
-  <a href="https://www.instagram.com/lamb.zip/">Instagram</a> •
-  <a href="mailto:daniel@leanback.ai">Email</a>
+<p align="center">
+  🌍 <a href="https://danielamb.com">Website</a> &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/daniel--lamb/">LinkedIn</a> &nbsp;•&nbsp;
+  💻 <a href="https://github.com/Daniel-Lamb">GitHub</a> &nbsp;•&nbsp;
+  📷 <a href="https://www.instagram.com/lamb.zip/">Instagram</a> &nbsp;•&nbsp;
+  📩 <a href="mailto:daniel@leanback.ai">Email</a>
 </p>
 
 ---
 
-## Stack and Skills
+<h2 align="center">Stack and Skills</h2>
+
+<div align="center">
 
 | AI & Automation | Languages | Backend & Infrastructure |
 |---|---|---|
@@ -59,9 +65,13 @@ I build AI systems and automations that remove repetitive work so people can spe
 | Vector Databases |  |  |
 | Claude |  |  |
 
+</div>
+
 ---
 
-## Previous Work
+<h2 align="center">Previous Work</h2>
+
+<div align="center">
 
 | Project | Description |
 |---|---|
@@ -70,10 +80,14 @@ I build AI systems and automations that remove repetitive work so people can spe
 | **Real-Time Dashboard System** | Built Kafka + Docker + Streamlit dashboards adaptable for classified ODNI initiatives |
 | **AI Travel Guestbook** | Converted walkthrough videos and guest feedback into an AI-powered property knowledge base |
 
+</div>
+
 ---
 
 <p align="center">
-Outside of tech, I love traveling, hiking, tennis, and reading.
-  
-To build something or just chat, reach out!
+  Outside of tech, I love traveling, hiking, tennis, and reading.
+</p>
+
+<p align="center">
+  To build something or just chat, reach out!
 </p>
