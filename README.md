@@ -8,12 +8,13 @@ In my free time I love to travel, hike, and play tennis and soccer!
 
 ---
 
-## reach out!
+## Reach Out!
+
 [Website](https://danielamb.com/), [LinkedIn](https://www.linkedin.com/in/daniel--lamb/), [GitHub](https://github.com/Daniel-Lamb), [Instagram](https://www.instagram.com/lamb.zip/), [Email](mailto:daniel@leanback.ai)
 
 ---
 
-## stack
+## Skills, Stack
 
 **AI & Automation:** HITL, A2A, RAG, Agent Memory, Guardrails, Task Decomposition/ Planning, Context Window Management, Self-Correction and Evaluation, Handoffs/ Routing, Observability Tracing, MCP, Tool Calls, n8n, Claude
 
@@ -23,13 +24,13 @@ In my free time I love to travel, hike, and play tennis and soccer!
 
 ---
 
-## featured work
+## Previous Work
 
 | Project | Description |
 |--------|-------------|
-| **AI Automation Studio** | Building AI workflows that automate repetitive business tasks |
+| **Leanback AI** | My agency for building AI workflows |
 | **Capital One Analytics** | Built data pipelines and analyzed large-scale datasets with Python and SQL |
-| **Dashboard Template** | Built a real-time data dashboard using Kafka, Docker, Python, and Streamlit, adaptable for classified defense initiatives |
+| **Dashboard Template** | Built a real-time data dashboard using Kafka, Docker, Python, and Streamlit, adaptable for classified ODNI initiatives |
 | **AI Travel Guestbook** | Built for a startup, converts walkthrough videos and guest feedback into an AI property knowledge base |
 
 ---
