@@ -1,55 +1,40 @@
-<h1 align="center">Welcome to my Github Page!</h1>
+# Hi, I'm Daniel Lamb
 
-<p align="center">
+Automation engineer, graduated with a B.S. Computer Engineering from the University of Maryland, prev @ Capital One and Ernst and Young.
 
-  <img align="left" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/81542370-64df-4393-8ba5-4d848b1c0fe9" width="215px" height="260px">
-  <img align="center" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/74d67bb0-cdbb-4b8a-a212-44a16a5b4c24" width="165px" height="260px">
-  <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/a5edad4a-2152-4690-8253-14725054846e" width="215px" height="260px">
-</p>
-<br>
+I save people time and effort, so that they can focus on enjoying things that are important to them. I build workflows and AI systems that help with emails, call summaries, CRM updates, reports, lead routing, spreadsheets, and anything repetitive.
 
-# About:
-<p>
- <img align="right" src="https://github.com/Daniel-Lamb/Daniel-Lamb/assets/96439440/21b35d80-b209-4964-a7bc-4c9bebdaa02e" width="371px">
-  
-  <br>
-  <i><b>Hi! I'm Daniel, a computer engineering student at the University of Maryland. I'm passionate about self-improvement, coding, and hiking.</b></i>
-  <br><br>
+In my free time I love to travel, hike, and play tennis and soccer!
 
- ### Experience:
+---
 
-</p>
+## reach out!
 
-### Languages
-![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/java-green?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/c-green?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/CSS-green?style=for-the-badge&logo=CSS)
-![Verilog](https://img.shields.io/badge/Verilog-green?style=for-the-badge)
+- [Website](https://danielamb.com/)
+- [LinkedIn](https://www.linkedin.com/in/daniel--lamb/)
+- [GitHub](https://github.com/Daniel-Lamb)
+- [Instagram](https://www.instagram.com/lamb.zip/)
+- [Email](mailto:daniel@leanback.ai)
 
-<img align="right" src="https://media2.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47pwbaog6dnk7ns7ngbnfn7yk1b1fmkvvzorgj3cx4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px" height="205px">
+---
 
-### ML / Data Science
-![Pandas](https://img.shields.io/badge/pandas-green?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-green?style=for-the-badge&logo=numpy)
-![MatLab](https://img.shields.io/badge/MatLab-green?style=for-the-badge)
+## stack
 
-### OS
+|**AI & Automation:** HITL, A2A, RAG, Agent Memory, Guardrails, Task Decomposition/ Planning, Context Window Management, Self-Correction and Evaluation, Handoffs/ Routing, Observability Tracing, MCP, Tool Calls, n8n, Claude|
 
-![Linux](https://img.shields.io/badge/linux-green?style=for-the-badge&logo=Linux)
-![Windows](https://img.shields.io/badge/Windows-green?style=for-the-badge&logo=Windows)
+|**Languages:** Python, Java, C, Verilog, JavaScript, HTML, CSS|
 
-<br>
-<p align="center">
-   <a href="https://danielamb.com/">
-    <img src="https://img.shields.io/badge/-Website-darkgreen?style=flat-square&logo=website" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel--lamb/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:daniel.lamb4444@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-lightgrey?style=flat-square&logo=gmail" />
-  </a>
+|**Backend & DevOps:** Flask, FastAPI, SQL, AWS, Docker, Kubernetes, Streamlit, Linux, Windows|
 
-</p>
+---
+
+## featured work
+
+| Project | Description |
+|--------|-------------|
+| **AI Automation Studio** | Building AI workflows that automate repetitive business tasks |
+| **Capital One Analytics** | Built data pipelines and analyzed large-scale datasets with Python and SQL |
+| **Dashboard Template** | Built a real-time data dashboard using Kafka, Docker, Python, and Streamlit, adaptable for classified defense initiatives |
+| **AI Travel Guestbook** | Built for a startup, converts walkthrough videos and guest feedback into an AI property knowledge base |
+
+---
