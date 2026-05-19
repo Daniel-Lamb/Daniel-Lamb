@@ -9,22 +9,17 @@ In my free time I love to travel, hike, and play tennis and soccer!
 ---
 
 ## reach out!
-
-- [Website](https://danielamb.com/)
-- [LinkedIn](https://www.linkedin.com/in/daniel--lamb/)
-- [GitHub](https://github.com/Daniel-Lamb)
-- [Instagram](https://www.instagram.com/lamb.zip/)
-- [Email](mailto:daniel@leanback.ai)
+[Website](https://danielamb.com/), [LinkedIn](https://www.linkedin.com/in/daniel--lamb/), [GitHub](https://github.com/Daniel-Lamb), [Instagram](https://www.instagram.com/lamb.zip/), [Email](mailto:daniel@leanback.ai)
 
 ---
 
 ## stack
 
-|**AI & Automation:** HITL, A2A, RAG, Agent Memory, Guardrails, Task Decomposition/ Planning, Context Window Management, Self-Correction and Evaluation, Handoffs/ Routing, Observability Tracing, MCP, Tool Calls, n8n, Claude|
+**AI & Automation:** HITL, A2A, RAG, Agent Memory, Guardrails, Task Decomposition/ Planning, Context Window Management, Self-Correction and Evaluation, Handoffs/ Routing, Observability Tracing, MCP, Tool Calls, n8n, Claude
 
-|**Languages:** Python, Java, C, Verilog, JavaScript, HTML, CSS|
+**Languages:** Python, Java, C, Verilog, JavaScript, HTML, CSS
 
-|**Backend & DevOps:** Flask, FastAPI, SQL, AWS, Docker, Kubernetes, Streamlit, Linux, Windows|
+**Backend & DevOps:** Flask, FastAPI, SQL, AWS, Docker, Kubernetes, Streamlit, Linux, Windows
 
 ---
 
