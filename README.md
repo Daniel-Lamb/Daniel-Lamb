@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  Graduated B.S. Computer Engineering @ UMD, previously @ Capital One, Ernst & Young, startups <br>
+  Graduated B.S. Computer Engineering @ UMD, previously @ Capital One, Ernst & Young, startups
 </p>
 
 <p align="center">
-  I save people time and effort by automating repetitive work.
+  I save people time and effort by automating repetitive work
 </p>
 
 ---
@@ -57,12 +57,10 @@
 | A2A (Agent-to-Agent Protocol) | CSS | Streamlit |
 | Agent Evaluation & Benchmarking |  | Linux |
 | Reflection & Self-Correction |  | Windows |
-| Context Window Management |  |  |
-| Agent Handoffs & Routing |  |  |
+| Context Window Management |  | Claude |
+| Agent Handoffs & Routing |  | n8n |
 | Observability & Tracing |  |  |
-| n8n |  |  |
 | Vector Databases |  |  |
-| Claude |  |  |
 
 </div>
 
